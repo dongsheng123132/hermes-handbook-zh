@@ -1,0 +1,11 @@
+{
+  "tool": "hermes",
+  "name": "Hermes",
+  "icon": "🪽",
+  "blurb": "Nous Research 开源 AI agent，做自动化与获客系统，自带网页控制台",
+  "keywords": ["Hermes Agent 中文教程", "Hermes 安装", "Hermes agent 配置", "Nous Hermes 国内"],
+  "repo": "hermes-handbook-zh",
+  "from": "hermes",
+  "blue": { "file": "蓝皮书-入门.md", "title": "Hermes 蓝皮书 · 安装配置入门" },
+  "red":  { "file": "红皮书-进阶.md", "title": "Hermes 红皮书 · 进阶实战与变现" }
+}

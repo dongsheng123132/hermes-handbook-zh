@@ -1,0 +1,26 @@
+本作品（Hermes Agent 中文教程 · 蓝皮书/红皮书）采用
+知识共享 署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0) 授权。
+
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+完整法律文本：https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans
+简明摘要：    https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans
+
+────────────────────────────────────────────────────────
+你可以自由地：
+  • 共享 —— 在任何媒介以任何形式复制、发行本作品
+  • 演绎 —— 修改、转换或以本作品为基础进行创作
+
+惟须遵守下列条件：
+  • 署名 (BY)        —— 必须保留原作者署名、本仓库链接，以及文中的
+                        微信二维码与 u-king.org 链接（这是本教程的署名方式）。
+  • 非商业性使用 (NC) —— 不得将本作品用于商业目的（如打包售卖、付费课程等）。
+                        如需商业授权，请通过文中微信联系作者。
+
+无附加限制 —— 你不得使用法律术语或技术措施限制他人依许可协议所允许的行为。
+────────────────────────────────────────────────────────
+
+说明：Hermes 是 Nous Research 的开源产品（pip 包 hermes-agent），其商标与代码版权归
+Nous Research 所有。本教程为第三方原创中文使用指南，与 Nous Research 无隶属关系，
+仅讲解如何在国内顺畅使用。
+
+© 2026 U-King (u-king.org)
